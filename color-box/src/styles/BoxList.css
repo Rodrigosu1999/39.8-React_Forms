@@ -1,0 +1,12 @@
+.BoxLis-cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.BoxList{
+    width: 75%;
+    border: 4px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
